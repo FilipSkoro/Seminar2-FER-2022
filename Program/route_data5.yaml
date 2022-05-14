@@ -1,0 +1,235 @@
+Red_Train_elements: 
+  arc1: 
+    color: (0,0,0)
+    x: 100
+    y: 150
+    radius: 50
+    start_angle: 90
+    end_angle: 270
+  arc2:
+    color: (0,0,0)
+    x: 250
+    y: 150
+    radius: 50
+    start_angle: -90
+    end_angle: 90 
+  line1:
+    color: (0,0,0)
+    start: [100, 100]
+    end: [250, 100]
+  line2:
+    color: (0,0,0)
+    start: [100, 200]
+    end: [250, 200]
+  
+Red_Train_stops:
+  s10: 
+    location: [100, 100]
+    width: 10
+    height: 20
+    part_of: 'arc1'
+    duration: 10
+  s11:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s9:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+
+Green_Train_elements: 
+  arc1: 
+    color: (0,0,0)
+    x: 100
+    y: 150
+    radius: 50
+    start_angle: 90
+    end_angle: 270
+  arc2:
+    color: (0,0,0)
+    x: 250
+    y: 150
+    radius: 50
+    start_angle: -90
+    end_angle: 90 
+  line1:
+    color: (0,0,0)
+    start: [100, 100]
+    end: [250, 100]
+  line2:
+    color: (0,0,0)
+    start: [100, 200]
+    end: [250, 200]
+  
+Green_Train_stops:
+  s12: 
+    location: [100, 100]
+    width: 10
+    height: 20
+    part_of: 'arc1'
+    duration: 10
+  s13:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s14:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s1: 
+    location: [100, 100]
+    width: 10
+    height: 20
+    part_of: 'arc1'
+    duration: 10
+  s3:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s10:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s9: 
+    location: [100, 100]
+    width: 10
+    height: 20
+    part_of: 'arc1'
+    duration: 10
+  s11:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+
+Blue_Train_elements: 
+  arc1: 
+    color: (0,0,0)
+    x: 100
+    y: 150
+    radius: 50
+    start_angle: 90
+    end_angle: 270
+  arc2:
+    color: (0,0,0)
+    x: 250
+    y: 150
+    radius: 50
+    start_angle: -90
+    end_angle: 90 
+  line1:
+    color: (0,0,0)
+    start: [100, 100]
+    end: [250, 100]
+  line2:
+    color: (0,0,0)
+    start: [100, 200]
+    end: [250, 200]
+  
+Blue_Train_stops:
+  s7: 
+    location: [100, 100]
+    width: 10
+    height: 20
+    part_of: 'arc1'
+    duration: 10
+  s8:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s9:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s10: 
+    location: [100, 100]
+    width: 10
+    height: 20
+    part_of: 'arc1'
+    duration: 10
+  s3:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s1:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s4: 
+    location: [100, 100]
+    width: 10
+    height: 20
+    part_of: 'arc1'
+    duration: 10
+  s5:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+
+Purple_Train_elements: 
+  arc1: 
+    color: (0,0,0)
+    x: 100
+    y: 150
+    radius: 50
+    start_angle: 90
+    end_angle: 270
+  arc2:
+    color: (0,0,0)
+    x: 250
+    y: 150
+    radius: 50
+    start_angle: -90
+    end_angle: 90 
+  line1:
+    color: (0,0,0)
+    start: [100, 100]
+    end: [250, 100]
+  line2:
+    color: (0,0,0)
+    start: [100, 200]
+    end: [250, 200]
+  
+Purple_Train_stops:
+  s2: 
+    location: [100, 100]
+    width: 10
+    height: 20
+    part_of: 'arc1'
+    duration: 10
+  s3:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
+  s1:
+    location: [100, 200]
+    width: 10
+    height: 20
+    part_of: 'line2'
+    duration: 5
