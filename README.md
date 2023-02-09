@@ -1,5 +1,4 @@
-# Seminar 2
+# Seminar2-FER-2022
 
-Seminarski zadatak - Automatsko definiranje matričnog modela sustava u želježničkom prometu na temelju podataka mreže
-\n
+Seminar assignment: Automatic definition of a matrix system model in rail traffic based on network data
 Mentor: prof. dr. sc. Stjepan Bogdan
