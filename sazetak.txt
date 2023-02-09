@@ -1,0 +1,9 @@
+Automatsko definiranje matricnog modela sustava u zeljeznickom prometu na temelju podataka mreze
+
+U današnje vrijeme velike globalizacije i urbanizacije društva, određene grane prometa nerijetko nailaze na probleme u organizaciji i kontroli vozila.
+Jedna od takvih prometnih grana je i željeznički promet. Kako bi se izbjegle moguće kolizije na dijeljenim prugama te potencijalni sudari, potrebno je
+kvalitativno regulirati stanje na željezničkoj mreži. Ovaj seminarski rad iznosi rješenje kontrole i regulacije željezničkih mreža pomoću matričnog
+modela sustava. Rad opisuje problematiku i objašnjava način na koji se sustav opisuje matricama, zatim kako se sustav prikazuje Petrijevom mrežom te je potom
+objašnjena i programska izvedba navedene metode. Na kraju rada zaključuju se prednosti i mane opisivanja sustava matričnim modelom.
+
+Ključne riječi: promet, vlak, željeznička mreža, matrica, matrični model, sustav, Petrijeva mreža
