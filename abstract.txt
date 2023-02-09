@@ -6,4 +6,4 @@ regulate the situation on the railway network. This paper presents the solution 
 The paper describes the problem and explains the way in which the system is described by matrices, then how the system is represented by a Petri net and then
 the program implementation of this method is explained. At the end, the advantages and disadvantages of describing the system with a matrix model are concluded.
 
-Key words: train, railway network, matrix, matrix model, system, Petri net
+Keywords: train, railway network, matrix, matrix model, system, Petri net
